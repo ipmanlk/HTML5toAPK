@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HTML5toAPK", "HTML5toAPK.vbproj", "{509ACD27-A7B5-416A-A5D2-AC35551F949D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{509ACD27-A7B5-416A-A5D2-AC35551F949D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509ACD27-A7B5-416A-A5D2-AC35551F949D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509ACD27-A7B5-416A-A5D2-AC35551F949D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{509ACD27-A7B5-416A-A5D2-AC35551F949D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
